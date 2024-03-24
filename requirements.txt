@@ -1,0 +1,13 @@
+openai
+streamlit
+streamlit_chat
+langchain
+langchain_core
+langchain_openai
+langchain-community
+langchain_experimental
+python-dotenv
+python-docx
+pandas
+openpyxl
+tabulate
